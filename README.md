@@ -1,7 +1,7 @@
 ![Banner](https://github.com/AK-Algorithm/AK-Algorithm-/blob/main/Github%20Banner.png)
 
 ## 🌟 About Me
-#### I’m a Computer Science Honours student dedicated to strengthening my skill set and gaining valuable experience to progress in my professional journey, focusing on data analytics and immersive technologies.
+#### I’m a Computer Science and Informatics Masters student dedicated to strengthening my skill set and gaining valuable experience to progress in my professional journey, focusing on data analytics and immersive technologies.
 
 ## 🛠️ Skills
 ####  • Programming Languages: Python, C#
